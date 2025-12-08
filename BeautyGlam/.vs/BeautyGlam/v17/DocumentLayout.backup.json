@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\PROGRAMACION AVANZADA\\BeautyGlamProyecto\\BeautyGlam\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9E004522-54BC-4416-9E70-89782FE4DC91}|BeautyGlam.UI\\BeautyGlam.UI.csproj|c:\\programacion avanzada\\beautyglamproyecto\\beautyglam\\beautyglam.ui\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E004522-54BC-4416-9E70-89782FE4DC91}|BeautyGlam.UI\\BeautyGlam.UI.csproj|solutionrelative:beautyglam.ui\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E004522-54BC-4416-9E70-89782FE4DC91}|BeautyGlam.UI\\BeautyGlam.UI.csproj|c:\\programacion avanzada\\beautyglamproyecto\\beautyglam\\beautyglam.ui\\views\\blog\\blog.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E004522-54BC-4416-9E70-89782FE4DC91}|BeautyGlam.UI\\BeautyGlam.UI.csproj|solutionrelative:beautyglam.ui\\views\\blog\\blog.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E004522-54BC-4416-9E70-89782FE4DC91}|BeautyGlam.UI\\BeautyGlam.UI.csproj|c:\\programacion avanzada\\beautyglamproyecto\\beautyglam\\beautyglam.ui\\views\\product\\product.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E004522-54BC-4416-9E70-89782FE4DC91}|BeautyGlam.UI\\BeautyGlam.UI.csproj|solutionrelative:beautyglam.ui\\views\\product\\product.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E004522-54BC-4416-9E70-89782FE4DC91}|BeautyGlam.UI\\BeautyGlam.UI.csproj|c:\\programacion avanzada\\beautyglamproyecto\\beautyglam\\beautyglam.ui\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E004522-54BC-4416-9E70-89782FE4DC91}|BeautyGlam.UI\\BeautyGlam.UI.csproj|solutionrelative:beautyglam.ui\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E004522-54BC-4416-9E70-89782FE4DC91}|BeautyGlam.UI\\BeautyGlam.UI.csproj|c:\\programacion avanzada\\beautyglamproyecto\\beautyglam\\beautyglam.ui\\views\\product\\productcart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E004522-54BC-4416-9E70-89782FE4DC91}|BeautyGlam.UI\\BeautyGlam.UI.csproj|solutionrelative:beautyglam.ui\\views\\product\\productcart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "blog.cshtml",
+              "DocumentMoniker": "C:\\PROGRAMACION AVANZADA\\BeautyGlamProyecto\\BeautyGlam\\BeautyGlam.UI\\Views\\Blog\\blog.cshtml",
+              "RelativeDocumentMoniker": "BeautyGlam.UI\\Views\\Blog\\blog.cshtml",
+              "ToolTip": "C:\\PROGRAMACION AVANZADA\\BeautyGlamProyecto\\BeautyGlam\\BeautyGlam.UI\\Views\\Blog\\blog.cshtml",
+              "RelativeToolTip": "BeautyGlam.UI\\Views\\Blog\\blog.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-08T22:25:47.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "C:\\PROGRAMACION AVANZADA\\BeautyGlamProyecto\\BeautyGlam\\BeautyGlam.UI\\Views\\Home\\Contact.cshtml",
+              "RelativeDocumentMoniker": "BeautyGlam.UI\\Views\\Home\\Contact.cshtml",
+              "ToolTip": "C:\\PROGRAMACION AVANZADA\\BeautyGlamProyecto\\BeautyGlam\\BeautyGlam.UI\\Views\\Home\\Contact.cshtml",
+              "RelativeToolTip": "BeautyGlam.UI\\Views\\Home\\Contact.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-08T22:25:35.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "productCart.cshtml",
+              "DocumentMoniker": "C:\\PROGRAMACION AVANZADA\\BeautyGlamProyecto\\BeautyGlam\\BeautyGlam.UI\\Views\\Product\\productCart.cshtml",
+              "RelativeDocumentMoniker": "BeautyGlam.UI\\Views\\Product\\productCart.cshtml",
+              "ToolTip": "C:\\PROGRAMACION AVANZADA\\BeautyGlamProyecto\\BeautyGlam\\BeautyGlam.UI\\Views\\Product\\productCart.cshtml",
+              "RelativeToolTip": "BeautyGlam.UI\\Views\\Product\\productCart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-08T22:25:32.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "product.cshtml",
+              "DocumentMoniker": "C:\\PROGRAMACION AVANZADA\\BeautyGlamProyecto\\BeautyGlam\\BeautyGlam.UI\\Views\\Product\\product.cshtml",
+              "RelativeDocumentMoniker": "BeautyGlam.UI\\Views\\Product\\product.cshtml",
+              "ToolTip": "C:\\PROGRAMACION AVANZADA\\BeautyGlamProyecto\\BeautyGlam\\BeautyGlam.UI\\Views\\Product\\product.cshtml",
+              "RelativeToolTip": "BeautyGlam.UI\\Views\\Product\\product.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-08T22:25:02.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\PROGRAMACION AVANZADA\\BeautyGlamProyecto\\BeautyGlam\\BeautyGlam.UI\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "BeautyGlam.UI\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\PROGRAMACION AVANZADA\\BeautyGlamProyecto\\BeautyGlam\\BeautyGlam.UI\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "BeautyGlam.UI\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAHQAAAAAAAAAAAAgwGgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-08T22:05:24.101Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
